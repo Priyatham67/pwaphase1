@@ -1,0 +1,43 @@
+{
+  "basics":
+  {
+    "name":"preetham",
+    "phon num":"13489234",
+    "img":"images/download.jpg"
+    },
+    "career":{
+      "info":"i want to be a good programmer"
+    },
+    "Education":[
+      {
+        "sno":"1",
+        "degree":"btech",
+        "institute":"mits",
+        "per":"80%"
+      },
+      {
+        "sno":"2",
+        "degree":"inter",
+        "institute":"chaitanya",
+        "per":"91%"
+        },
+        {
+
+          "sno":"3",
+          "degree":"school",
+          "institute":"chaitanya",
+          "per":"90%"
+        }
+    ],
+    "skills":[
+      {
+        "info":"c"
+      },
+      {
+        "info":"java"
+      },
+      {
+          "info":"c++"
+        }
+      ]
+}
